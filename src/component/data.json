@@ -1,0 +1,64 @@
+{
+    "eBooks": [
+        {
+            "img":"https://th.bing.com/th/id/R.9f5ac4cf6921157e8e589bd6753bbe61?rik=qGhZODWTVNqmBQ&riu=http%3a%2f%2fwww.computinghistory.org.uk%2fuserdata%2fimages%2flarge%2f87%2f74%2fproduct-118774.jpg&ehk=omTeWwiWARZuk5dVobJ4U1CWSW%2f7QK%2bHGB9KZOKL%2bqQ%3d&risl=&pid=ImgRaw&r=0",
+            "language": "Pascal",
+            "edition": "third",
+            "price": 20
+        },
+        {
+            "img":"https://th.bing.com/th/id/R.b3827ccf929f8af7d5c2746da51a55fb?rik=lcnk%2fRA7ssSr%2bA&riu=http%3a%2f%2febook3000.com%2fupimg%2fallimg%2f200423%2f1251140.jpg&ehk=Ag4TsPTVXErT2cMNbkdzVkjpf59%2fqmWoHMtCzDTWcq4%3d&risl=&pid=ImgRaw&r=0",
+            "language": "Python",
+            "edition": "four",
+            "price": 30
+        },
+        {
+            "img":"https://th.bing.com/th/id/OIP.JdIZQwhB3vSfg0LRv7pN6QHaJt?w=194&h=255&c=7&r=0&o=5&pid=1.7",
+            "language": "SQL",
+            "edition": "second",
+            "price": 25
+        },
+        {
+            "img":"https://th.bing.com/th/id/OIP.fHwezjRSlNL9N9YsnDpdmQHaJz?pid=ImgDet&rs=1",
+            "language": "Java",
+            "edition": "first",
+            "price": 15
+        },
+        {
+            "img":"https://th.bing.com/th/id/OIP.rBq3EFKg_iS6xqTq6IcEbwAAAA?pid=ImgDet&rs=1",
+            "language": "Java",
+            "edition": "second",
+            "price": 15
+        },
+        {
+            "img":"https://ebooks-it.org/e-books/wrox/_images/med_Wrox.Professional.JavaScript.For.Web.Developers.2nd.Edition.Jan.2009.ISBN.047022780X.pdf.jpg",
+            "language": "JavaScript",
+            "edition": "third",
+            "price": 30
+        },
+        {
+            "img":"https://th.bing.com/th/id/OIP.aex51hx7djp0pH0leHOvhwAAAA?pid=ImgDet&rs=1",
+            "language": "Php",
+            "edition": "second",
+            "price": 35
+        },
+        {
+            "img":"https://th.bing.com/th/id/OIP.aex51hx7djp0pH0leHOvhwAAAA?pid=ImgDet&rs=1",
+            "language": "laravel",
+            "edition": "first",
+            "price": 20
+        },
+        {
+            "img":"https://th.bing.com/th/id/OIP.wGyhHHfCqjYvFDmxNisoWgHaJI?pid=ImgDet&rs=1",
+            "language": "React",
+            "edition": "second",
+            "price": 26
+        },
+        {
+            "img":"https://th.bing.com/th/id/R.00c949932d028b204ed3e2453310d397?rik=LrtYMaaYCfvr6g&pid=ImgRaw&r=0",
+            "language": "React",
+            "edition": "first",
+            "price": 10
+        }
+    ]
+}
